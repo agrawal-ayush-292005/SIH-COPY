@@ -21,7 +21,7 @@ const NavBar = () => {
           <li className="py-1">HOME</li>
         </Link>
         <Link to="/doctor">
-          <li className="py-1">ALL DOCTORS</li>
+          <li className="py-1">ALL DOCTORS - noot doctors</li>
         </Link>
         <Link to="/about">
           <li className="py-1">ABOUT</li>
